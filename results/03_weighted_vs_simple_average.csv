@@ -1,0 +1,5 @@
+region,region_name,simple_mean_lb_per_mwh,simple_median_lb_per_mwh,generation_weighted_lb_per_mwh,generation_weighted_tonnes_per_mwh
+1,California,1650.1,905.9,962.7,0.437
+2,Northwest,1568.8,1207.5,1722.9,0.781
+3,Southwest,1136.8,1015.3,1511.3,0.685
+4,Rockies,1706.9,1176.1,1825.8,0.828
